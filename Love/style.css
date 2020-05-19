@@ -1,0 +1,12 @@
+body {
+	background-image: url("Love.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	font-size: 300px;
+	text-align: center;
+	margin: 30px auto 0 auto;
+	color: maroon;
+}

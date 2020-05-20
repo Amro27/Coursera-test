@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  font-style: italic;
+}
+
+/*body {
+	background: url(sunset.mp4) no-repeat center center fixed; 
+	background-size: cover;
+}*/
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+div.container {
+	color: white;
+}
+
+div.words {
+	text-align: center;
+	font-size: 25px;
+	color: deepskyblue;
+}
+
+nav.navbar {
+	opacity: 0.75;
+}
+
+#brand {
+	color: deepskyblue;
+	font-size: 30px;
+}
+
+a.nav-link {
+	text-align: center; 
+}
+
+/*iframe {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	opacity: 0.3;
+}*/
+
+/*.col-lg-4 {
+	text-align: center;
+}*/
